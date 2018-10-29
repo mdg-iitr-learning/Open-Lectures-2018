@@ -25,10 +25,12 @@ A simple app that focuses on basic XML and basic concepts of Object Oriented Pro
 
 ### Camera App
 * 22.10.2018
+<br />
 A camera based android app that clicks pictures and displays it in the app. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraApp) to check out this repository
 
 ### Lively 
 * 24.10.2018
+<br />
 A live wallpaper that changes color based on the device's current time.
 [This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/Lively) is the link to the repository
 
