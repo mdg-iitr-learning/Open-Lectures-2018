@@ -16,8 +16,8 @@ This repository contains the codes for open lectures conducted by [MDG](http://m
 ## Workshops
 These were the workshops organized this year:
 1. [Counter App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp)
-2. [Camera App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraAp)
-3. [Lively](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/Lively)
+2. [Camera App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraApp)
+3. [Lively](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/lively)
 
 ### 1. Counter App (22.08.2018)
 A simple app that focuses on the basic concepts of XML and Object Oriented Programming; great for kicking off Android Development. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp) to check out the code.
