@@ -1,5 +1,5 @@
 # Open-Lectures-2018
-This repository contains the codes for open lectures conducted by [MDG](http://mdg.iitr.ac.in/) in 2018
+This repository contains the codes for open lectures conducted by [MDG](http://mdg.iitr.ac.in/) in 2018.
 
 ## Get Started
 * [The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) is a great series of tutorials to start off with android development
@@ -14,27 +14,22 @@ This repository contains the codes for open lectures conducted by [MDG](http://m
 * [Medium](https://medium.com/) - A great place to read about any kind of quality material related to programming
 
 ## Workshops
-These are the workshops organised this year:
-* [Counter App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp)
-* [Camera App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraAp)
-* [Lively](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/Lively)
+These were the workshops organized this year:
+1. [Counter App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp)
+2. [Camera App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraApp)
+3. [Lively](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/lively)
 
-### Counter App
-* 22.08.2018
-<br />
-A simple app that focuses on basic XML and basic concepts of Object Oriented Programming, great for kicking off Android Development. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp) to jump right into this repository
+### 1. Counter App (22.08.2018)
+A simple app that focuses on the basic concepts of XML and Object Oriented Programming; great for kicking off Android Development. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp) to check out the code.
 
-### Camera App
-* 22.10.2018
-<br />
-A camera based android app that clicks pictures and displays it in the app. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraApp) to check out this repository
+### 2. Camera App (22.10.2018)
+
+A camera based android app that clicks pictures and displays it in the app. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraApp) to check out the code.
 
 
-### Lively 
-* 24.10.2018
-<br />
-A live wallpaper that changes color based on the device's current time.
-[This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/lively) is the link to the repository.
+### 3. Lively (24.10.2018)
+
+A live wallpaper that changes color based on the device's current time. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/lively) to check out the code.
 
 ## Q/A Forums
 * [Stack Overflow](https://stackoverflow.com/) -  Q/A forum for programmers. Most probably you will find the answer to your problem here
@@ -48,4 +43,4 @@ A live wallpaper that changes color based on the device's current time.
 * [Utkarsh Mishra](https://github.com/UtkarshMishra04)
 
 
-<div align="center">With love, MDG</div><br>
+<div align="center">With love, MDG </div><br>
