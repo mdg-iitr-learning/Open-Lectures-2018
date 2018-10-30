@@ -22,7 +22,7 @@ These are the workshops organised this year:
 ### Counter App
 * 22.08.2018
 <br />
-A simple app that focuses on basic XML and basic concepts of Object Oriented Programming, great for kicking off Android Development
+A simple app that focuses on basic XML and basic concepts of Object Oriented Programming, great for kicking off Android Development. [Click here](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp) to jump right into this repository
 
 ### Camera App
 * 22.10.2018
