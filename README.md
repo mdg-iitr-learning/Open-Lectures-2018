@@ -21,14 +21,18 @@ These are the workshops organised this year:
 
 ### Counter App
 * 22.08.2018
+Count the number of new apps you make on your own with Counetr App.
+[This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp) is the link to the repository.
 
 ### Camera App
 * 22.10.2018
+Yeah! Now you can click pictures from and display them within your own Camera App.
+[This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraApp) is the link to the repository.
 
 ### Lively 
 * 24.10.2018
 A live wallpaper that changes color based on the device's current time.
-[This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/Lively) is the link to the repository.
+[This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/lively) is the link to the repository.
 
 ## Q/A Forums
 * [Stack Overflow](https://stackoverflow.com/) -  Q/A forum for programmers. Most probably you will find the answer to your problem here.
@@ -39,7 +43,7 @@ A live wallpaper that changes color based on the device's current time.
 * [Kaustubh Trivedi](https://github.com/codekaust)
 * [Ritik kumar](https://github.com/dev-ritik)
 * [Saurabh Singh](https://github.com/singh-saurabh)
-* [Utkarsh Mishra](https://github.com/UtkarshMishra04?tab=repositories)
+* [Utkarsh Mishra](https://github.com/UtkarshMishra04)
 
 
 <div align="center">For the campus!!</div><br>
