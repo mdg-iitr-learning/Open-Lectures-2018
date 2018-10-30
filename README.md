@@ -21,7 +21,7 @@ These are the workshops organised this year:
 
 ### Counter App
 * 22.08.2018
-Count the number of new apps you make on your own with Counetr App.
+Count the number of new apps you make on your own with Counter App.
 [This](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp) is the link to the repository.
 
 ### Camera App
