@@ -6,7 +6,7 @@ This repository contains the codes for open lectures conducted by [MDG](http://m
 * [Developing Android Apps](https://in.udacity.com/course/android-development-for-beginners--ud837) - Created by Google and offered on Udacity, this course is a nice stepping stone if you have prior programming experience
 
 ## Documentation
-* [Official Android Developers Documentation](https://developer.android.com/guide/) - Contains beginner level tutorials as well as reference of all classes for more advanced developer
+* [Official Android Developers Documentation](https://developer.android.com/guide/) - Contains beginner level tutorials as well as reference of all classes for more advanced developers
 
 ## Blogs
 * [Vogella Android Tutorials](http://www.vogella.com/tutorials/android.html) - Short and precise tutorials about Android Development: tools installation, debugging and using various features
@@ -15,12 +15,13 @@ This repository contains the codes for open lectures conducted by [MDG](http://m
 
 ## Workshops
 These are the workshops organised this year:
-* [Counter App](#counter-app)
+* [Counter App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CounterApp)
 * [Camera App](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/CameraAp)
 * [Lively](https://github.com/mdg-iitr/Open-Lectures-2018/tree/master/Lively)
 
 ### Counter App
 * 22.08.2018
+<br />
 A simple app that focuses on basic XML and basic concepts of Object Oriented Programming, great for kicking off Android Development
 
 ### Camera App
