@@ -1,7 +1,7 @@
 # CounterApp
 The repository contains code for Counter App built in lecture one.
 
-In this lecture focus has been on basic XML and basic concepts of Object Oriented Programming.
+In this lecture, the focus has been on basic concepts of XML and Object Oriented Programming.
 
 ## Instructors ##
 * [Kaustubh Trivedi](https://github.com/codekaust)
