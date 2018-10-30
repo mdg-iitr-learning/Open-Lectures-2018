@@ -15,4 +15,4 @@ A detailed lesson to learn Camera App for Android can be found [here](https://ww
 ## samples
 <img src="/CameraApp/images/im1.png" align="left" width="260" >
 <img src="/CameraApp/images/im2.png" align="center" width="260" >
-<img src="/CameraApp/images/im3.png" align="right" width="260" >
+<img src="/CameraApp/images/im3.png" align="left" width="260" >
